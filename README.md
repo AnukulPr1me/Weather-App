@@ -5,5 +5,5 @@
 # Weather-App
  created using HTML, CSS using Google Weather API
 
- # What I learn.
- I learn how to implement API in Web App
+ # What did I learn?
+ I learn how to implement API in a Web App.
